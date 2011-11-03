@@ -1,0 +1,6 @@
+= Hello world
+
+My github trainning.
+
+== link
+* [http://www.ruby-lang.org/ja/]
